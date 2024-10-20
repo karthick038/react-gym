@@ -1,0 +1,5 @@
+.card-container {display: flex;gap: 20px; }
+.card { background-color: #f0f0f0; padding: 20px; border-radius: 10px; width: 30%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);}
+.home_banner .dynamic-block { position: relative; height: 30rem; background-size: cover; background-position: center;}
+.home_banner .block-content { position: absolute; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;}
+.home_banner .block-content { color: white;}
